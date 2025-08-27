@@ -1,5 +1,16 @@
-This exercise was a 15 day coding challenge to help with Data Science and Analysis skills when interview prepping. 
-It was held by Interview Master and each challenge ranged from Easy to Hard, with 2-3 questions each day. 
-Feel free to use my solutions for reference or if you feel stuck in any way! 
+# Python Summer Party Notebooks
 
-Link to challenge: https://www.interviewmaster.ai/python-party/home
+This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy.
+
+## How to use
+
+1. Create and activate a Python environment (venv or conda).
+2. Install dependencies:
+   
+   pip install jupyterlab pandas numpy
+   
+3. Launch Jupyter Lab or Notebook and open any `day-XX.ipynb` file.
+
+## About Interview Master
+
+These challenges are hosted by Interview Master -- a platform for preparing for Data Science & Analytics interviews. Learn more at [interviewmaster.ai](https://www.interviewmaster.ai).
